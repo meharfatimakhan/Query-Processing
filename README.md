@@ -2,7 +2,7 @@
 
 Extract relevant documents from the corpus for queries.
 
-## Query Processing Steps:
+## Query Processing Steps
 
 ### Query Pre-Processing
 
@@ -13,6 +13,7 @@ Extract relevant documents from the corpus for queries.
 •	After that, remove all the stop-words from the list
 
 •	Finally stem all the tokens
+
 
 
 ### Query Results
